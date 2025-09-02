@@ -2,3 +2,30 @@
 ==========================
 
 AWS-csa  -->  
+aws-enablement-training123  -->  https://aws-enablement-training123-946z75cc8-lwindias-projects.vercel.app
+jobsaviour  -->  https://jobsaviour-85rsbxg56-lwindias-projects.vercel.app
+tgs  -->  
+studentportfolio  -->  
+prompt-genai2  -->  https://prompt-genai2-hwz6e8l0b-lwindias-projects.vercel.app
+Student-management  -->  
+K8s  -->  
+Workshop  -->  
+portfolioclone  -->  
+updatehirex  -->  https://updatehirex-bpuuspw8p-lwindias-projects.vercel.app
+hirex1  -->  https://hirex1-39nwj05tb-lwindias-projects.vercel.app
+Updated-Jazbaa  -->  
+Jazbaa4.0  -->  
+TheCreator1  -->  
+Prodhash13  -->  
+Jazbaa212  -->  
+AgenticAI  -->  
+Summer-internship  -->  
+thecreatorreplicate  -->  https://thecreatorreplicate-luxp91wc4-lwindias-projects.vercel.app
+ProjectKalki  -->  
+Studentinternship  -->  
+UpdatedJazbaa  -->  
+Devops-Project  -->  
+7-days-free-devops-training  -->  https://7-days-free-devops-training-2bz9gswm7-lwindias-projects.vercel.app
+7-days-free-devops-training12  -->  https://7-days-free-devops-training12-hzl6aqfn9-lwindias-projects.vercel.app
+updated_jazbaa  -->  https://updatedjazbaa-n4avjrajp-lwindias-projects.vercel.app
+linux_with_genai  -->  https://linuxwithgenai-drt308sar-lwindias-projects.vercel.app
